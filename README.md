@@ -1,6 +1,8 @@
-## PROFILE 👋 [![Twitter: saito_takumi3](https://img.shields.io/twitter/follow/saito_takumi3?style=social)](https://twitter.com/saito_takumi3) 
+# PROFILE 👋 [![Twitter: saito_takumi3](https://img.shields.io/twitter/follow/saito_takumi3?style=social)](https://twitter.com/saito_takumi3) 
 
-
+A technical student living in Okinawa, he has been working for an infrastructure company in Tokyo since 2024.
+Now studying network, security, server and python!
+You can also check me out on Twitter!
 
 ![YOME](https://j.gifs.com/jYNZqy.gif)
 

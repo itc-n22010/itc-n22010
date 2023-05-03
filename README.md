@@ -11,3 +11,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=itc-n22010)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itc-n22010&theme=vue)
+
+![yome](https://assets.st-note.com/production/uploads/images/78191824/picture_pc_f1a389e97b79ec0baff0ec7459b4d075.gif?width=800)

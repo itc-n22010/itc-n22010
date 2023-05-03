@@ -1,4 +1,4 @@
-## プロフィール 👋 [![Twitter: saito_takumi3](https://img.shields.io/twitter/follow/saito_takumi3?style=social)](https://twitter.com/saito_takumi3) 
+## PROFILE 👋 [![Twitter: saito_takumi3](https://img.shields.io/twitter/follow/saito_takumi3?style=social)](https://twitter.com/saito_takumi3) 
 
 
 

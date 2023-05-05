@@ -8,7 +8,7 @@ You can also check me out on Twitter!
 
 <!-- リポジトリステータス -->
 [![github-chart](https://github-chart.vercel.app/api?user=itc-n22010)](https://github.com/rokumura7/github-chart)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-n22010&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itc-n22010&theme=yeblu)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-n22010&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-n22010&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ソースコード統計 -->
 
 

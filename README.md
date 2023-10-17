@@ -4,7 +4,7 @@ A technical student living in Okinawa, he has been working for an infrastructure
 Now studying network, security, server and python!
 You can also check me out on Twitter!
 
-![YOME](https://j.gifs.com/jYNZqy.gif?width)
+![YOME](https://lovelive-petitsoku.com/wp-content/uploads/2022/07/1659007700909.gif)
 
 # Git
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-n22010&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-n22010&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
